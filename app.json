@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "bundleIdentifier": "com.recurrly.app",
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/icons/logo.png"
     },
     "android": {
       "package": "com.recurrly.app",
