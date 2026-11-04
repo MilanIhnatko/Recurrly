@@ -9,7 +9,7 @@ declare global {
 
   interface TabIconProps {
     focused: boolean
-    icon: ImageProps["source"]
+    icon: ImageSourcePropType
   }
 
   interface Subscription {
